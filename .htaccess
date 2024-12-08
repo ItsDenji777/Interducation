@@ -1,0 +1,3 @@
+# enable basic rewriting
+RewriteEngine on
+Redirect 301 / https://itsdenji777.github.io/Homepage/
